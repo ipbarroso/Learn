@@ -3,3 +3,7 @@
 - Machine Learning
     - Image recognition
 - GIT
+- Astro
+- Jekyll Theme
+- HTMX
+- Typescript
